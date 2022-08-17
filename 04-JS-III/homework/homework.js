@@ -201,7 +201,7 @@ function mesesDelAño(array) {
   } 
   if (meses.length == 3 ) {  //Si no se encontraron los meses pedidos
     return meses;
-    
+
   } else {
     return "No se encontraron los meses pedidos";
   }
