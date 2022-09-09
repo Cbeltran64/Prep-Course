@@ -61,7 +61,7 @@ IV. Suba su trabajo a su repositorio de github`
 ## Ejercicio II
 
 ```
-Usando lo que aprendiste de HTML vas a crear un nuevo documento dentro de la carpeta de 'homework' llamado 'cv.html'. En el mismo vas crear tu propio Curriculum, deberá tener las siguientes secciones:
+Usando lo que aprendiste de HTML vas a crear un nuevo documento dentro de la carpeta de 'homework' llamado '0.html'. En el mismo vas crear tu propio Curriculum, deberá tener las siguientes secciones:
 
 * Titulo
 * Descripción Personal
